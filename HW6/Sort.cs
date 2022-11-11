@@ -1,6 +1,6 @@
 ﻿namespace HW6
 {
-    public class Sort : DeviceTable
+    public class Sort
     {
         public void DeviceSorting()
         {
